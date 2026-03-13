@@ -1,0 +1,11 @@
+.DS_S*
+__pycache__/
+*_utils.py
+*_utils.py.*
+*.py.*
+*.pyc
+*.pyc.*
+*.[0-9]
+*.[0-9][0-9]
+data/image/*faces
+data/image/**/*jpg
